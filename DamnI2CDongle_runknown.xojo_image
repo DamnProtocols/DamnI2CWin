@@ -1,0 +1,40 @@
+#tag MultiImage
+Image DamnI2CDongle_runknown
+	#tag ImageRepresentation
+		SaveInfo = APHRcwECAQAAAABjWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9PbWVuXERhbW5JMkNcVVBGVzEwMDgtRGFtbkkyQ19HVUlcSW1hZ2VzXERhbW5JMkNEb25nbGVfcnVua25vd24ucG5nAwAAAAABAAQAAAAAAQAAAAAAAAA=
+		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_Omen\DamnI2C\UPFW1008-DamnI2C_GUI\Images\DamnI2CDongle_runknown.png
+		PartialPath = ..\UPFW1008-DamnI2C_GUI\Images\DamnI2CDongle_runknown.png
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = 212.00
+			Orientation = Any
+			Platform = 15
+			PPI = 72
+			VSize = 69.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 144
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+	#tag ImageRepresentation
+		#tag ImageSpecification
+			Comment = 
+			Device = 31
+			HSize = -1.00
+			Orientation = Any
+			Platform = 15
+			PPI = 216
+			VSize = -1.00
+		#tag EndImageSpecification
+	#tag EndImageRepresentation
+End Image
+#tag EndMultiImage
