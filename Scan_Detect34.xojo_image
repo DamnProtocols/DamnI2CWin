@@ -1,9 +1,9 @@
 #tag MultiImage
 Image Scan_Detect34
 	#tag ImageRepresentation
-		SaveInfo = APHRcwECAQAAAABaWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9PbWVuXERhbW5JMkNcVVBGVzEwMDgtRGFtbkkyQ19HVUlcSW1hZ2VzXFNjYW5fRGV0ZWN0MzQuUE5HAwAAAAABAAQAAAAAAQAAAAAAAAA=
-		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_Omen\DamnI2C\UPFW1008-DamnI2C_GUI\Images\Scan_Detect34.PNG
-		PartialPath = ..\UPFW1008-DamnI2C_GUI\Images\Scan_Detect34.PNG
+		SaveInfo = APHRcwECAQAAAABHWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9MMTRcRGFtbkkyQ1dpblxJbWFnZXNcU2Nhbl9EZXRlY3QzNC5QTkcDAAAAAAEABAAAAAABAAAAAAAAAA==
+		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_L14\DamnI2CWin\Images\Scan_Detect34.PNG
+		PartialPath = Images\Scan_Detect34.PNG
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
@@ -18,22 +18,22 @@ Image Scan_Detect34
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 1094.00
 			Orientation = Any
 			Platform = 15
 			PPI = 144
-			VSize = -1.00
+			VSize = 113.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 	#tag ImageRepresentation
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 1094.00
 			Orientation = Any
 			Platform = 15
 			PPI = 216
-			VSize = -1.00
+			VSize = 113.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 End Image

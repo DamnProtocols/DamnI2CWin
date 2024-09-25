@@ -1,9 +1,9 @@
 #tag MultiImage
 Image FV_DamnI2C_Logo_Color1
 	#tag ImageRepresentation
-		SaveInfo = APHRcwECAQAAAABiWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9PbWVuXERhbW5JMkNcVVBGVzEwMDgtRGFtbkkyQ19HVUlcSW1hZ2VzXEZWX0RhbW5JMkNfTG9nb19Db2xvci5wbmcDAAAAAAEABAAAAAABAAAAAAAAAA==
-		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_Omen\DamnI2C\UPFW1008-DamnI2C_GUI\Images\FV_DamnI2C_Logo_Color.png
-		PartialPath = ..\UPFW1008-DamnI2C_GUI\Images\FV_DamnI2C_Logo_Color.png
+		SaveInfo = APHRcwECAQAAAABPWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9MMTRcRGFtbkkyQ1dpblxJbWFnZXNcRlZfRGFtbkkyQ19Mb2dvX0NvbG9yLnBuZwMAAAAAAQAEAAAAAAEAAAAAAAAA
+		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_L14\DamnI2CWin\Images\FV_DamnI2C_Logo_Color.png
+		PartialPath = Images\FV_DamnI2C_Logo_Color.png
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
@@ -18,22 +18,22 @@ Image FV_DamnI2C_Logo_Color1
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 164.00
 			Orientation = Any
 			Platform = 15
 			PPI = 144
-			VSize = -1.00
+			VSize = 163.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 	#tag ImageRepresentation
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 164.00
 			Orientation = Any
 			Platform = 15
 			PPI = 216
-			VSize = -1.00
+			VSize = 163.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 End Image

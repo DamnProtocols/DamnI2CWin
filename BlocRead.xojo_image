@@ -1,9 +1,9 @@
 #tag MultiImage
 Image BlocRead
 	#tag ImageRepresentation
-		SaveInfo = APHRcwECAQAAAABWWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9PbWVuXERhbW5JMkNcVVBGVzEwMDgtRGFtbkkyQ19HVUlcSW1hZ2VzXEJsb2MgUmVhZC5QTkcDAAAAAAEABAAAAAABAAAAAAAAAA==
-		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_Omen\DamnI2C\UPFW1008-DamnI2C_GUI\Images\Bloc Read.PNG
-		PartialPath = ..\UPFW1008-DamnI2C_GUI\Images\Bloc Read.PNG
+		SaveInfo = APHRcwECAQAAAABDWTpcRU1fVVBcM19Qcm9kX0Zpcm13YXJlXEdpdEh1Yl9MMTRcRGFtbkkyQ1dpblxJbWFnZXNcQmxvYyBSZWFkLlBORwMAAAAAAQAEAAAAAAEAAAAAAAAA
+		FullPath = Y:\EM_UP\3_Prod_Firmware\GitHub_L14\DamnI2CWin\Images\Bloc Read.PNG
+		PartialPath = Images\Bloc Read.PNG
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
@@ -18,22 +18,22 @@ Image BlocRead
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 1190.00
 			Orientation = Any
 			Platform = 15
 			PPI = 144
-			VSize = -1.00
+			VSize = 121.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 	#tag ImageRepresentation
 		#tag ImageSpecification
 			Comment = 
 			Device = 31
-			HSize = -1.00
+			HSize = 1190.00
 			Orientation = Any
 			Platform = 15
 			PPI = 216
-			VSize = -1.00
+			VSize = 121.00
 		#tag EndImageSpecification
 	#tag EndImageRepresentation
 End Image
